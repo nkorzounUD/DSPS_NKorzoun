@@ -1,7 +1,7 @@
 # This is the offical submission for
-Andrew Crossman -  https://github.com/AndrewCrossman
-Ben Flaggs - https://github.com/bflaggs
-Nik Korzoun - https://github.com/nkorzounUD
+Andrew Crossman -  https://github.com/AndrewCrossman <br />
+Ben Flaggs - https://github.com/bflaggs <br />
+Nik Korzoun - https://github.com/nkorzounUD <br />
 Connor Mooney - https://github.com/comooney711
 
 ## Contributions
