@@ -1,5 +1,6 @@
-![histogram](https://github.com/nkorzounUD/DSPS_NKorzoun/blob/main/HW6/histogram.pdf) <br>
-![histogram_fixed](https://github.com/nkorzounUD/DSPS_NKorzoun/blob/main/HW6/histogram_fixed.pdf)
+![histogram](https://github.com/nkorzounUD/DSPS_NKorzoun/blob/main/HW6/histogram.PNG) <br>
+_______________________________________________
+![histogram_fixed](https://github.com/nkorzounUD/DSPS_NKorzoun/blob/main/HW6/histogram_fixed.png)
 
 Above are histograms of image parameters calculated from simulated data. These plots were made over the previous summer as I was conducting research. They are meant to show how the variance increases as the number of samples decreases - an example of the law of large numbers. In the first image, the histograms are truncated on both axes. The y-scale is not absolute; meaning the plots ambiguous and not easily comparable.  Additionally, the legend plots a 5th parameter that is mislabelled as "size" - which is quite confusing when each subplot is labelled by the size (number of samples).
 
