@@ -6,7 +6,7 @@ Connor Mooney - https://github.com/comooney711 <br />
 
 ## Contributions
 ### Andrew Crossman:
-Ensured PEP8 compliance.
+Ensured PEP8 compliance. Assisted with debugging.
 
 ### Ben Flaggs:
 Assisted in preprocessing data. Calculated intracluster variance. Applied k-means clustering and plotted variance over number of clusters. Plotted k-means clusters on 2d projection.
