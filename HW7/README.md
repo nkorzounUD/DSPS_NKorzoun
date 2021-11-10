@@ -1,4 +1,4 @@
-# Offical Submission For Homework Four by:
+# Offical Submission For Homework 7 by:
 Andrew Crossman -  https://github.com/AndrewCrossman <br />
 Ben Flaggs - https://github.com/bflaggs <br />
 Nik Korzoun - https://github.com/nkorzounUD <br />
